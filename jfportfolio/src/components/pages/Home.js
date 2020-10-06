@@ -1,20 +1,41 @@
 import React from "react";
+import jfarrish from "../img/JFarrish.jpg"
+import Jumbotron from 'react-bootstrap/Jumbotron';
+import Container from 'react-bootstrap/Container';
+import "./styles/home_style.css";
+
 
 function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
-      </p>
-    </div>
+
+    <section className="mt-1" alt="this contains and pushes the main content in/our when you resize">
+      <section className="jumbotron text-left myAdj" id="addDarkGrey">
+        <div className="container border rounded border border-dark bg-white ">
+          <div>
+            <h1>Home Page</h1>
+
+            <img className="floatImgLeft" src={jfarrish} alt="image of Joe Farrish" />
+
+            <p> Hello, my name is Joe Farrish. I’m originally from Rio Rico, Az - a small town just north of the US border town of
+            Nogales, Az. It’s an interesting place with good warm people and great Mexican food. I currently live in Green Valley,
+            Az and consider myself a Tucsonian. </p>
+
+            <p>Currently I've been working with Javascript and Web development technologies such as HTML, CSS, jQuery and other
+            Web Development libraries. I also know C++ and the Qt Framework and actually built my own application. I hope to find a
+            Job that will push me to learn new technologies and where I can contribute along side a diverse set of people who want to
+            work to make the world we live in a better place.</p>
+
+            <p>I like coding GUI stuff and even do dabble with some graphic design. I think a position where Javascript is needed is a great
+            place for me to be. I'm always open to learn new langauges.</p>
+
+            <p>Please feel free to check out my portfolio and contact me. My email,linkedin and resume are accessible via the upper right
+            hand corner, It'll take you to a new tab. Thank you for visiting. Sincerly, Joe Farrish</p>
+
+          </div>
+        </div>
+      </section>
+    </section>
+
   );
 }
 
