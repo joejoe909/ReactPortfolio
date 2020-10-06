@@ -31,6 +31,8 @@ function NavTabs() {
           Contact
         </Link>
       </li>
+      <a href="google.com">LinkedIn</a>
+      <a href="google.com">Resume</a>
     </ul>
   );
 }

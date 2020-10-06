@@ -10,7 +10,7 @@ import "./styles/home_style.css";
 
 function About() {
   return (
-    <section className="mt-1" alt="this contains and pushes the main content in/out when you resize">
+    <section className="" alt="this contains and pushes the main content in/out when you resize">
       <section class="jumbotron text-left myAdj" alt="This tag contains the main content" id="addDarkGrey">
         <div class="container border rounded border border-dark bg-white" alt="Main Container that holds the grid">
           <div class="container mt-4">
@@ -41,21 +41,21 @@ function About() {
               </div>
 
               <div class="col-md-4">
-                <a href="https://joejoe909.github.io/EZ-geo-tracker/" target="_blank"> <img src={wdb} class="img-fluid p-4 m-2" alt="Responsive image"/> </a>
+                <a href="https://joejoe909.github.io/Ez-Geo-Tracker/" target="_blank"> <img src={EGT} class="img-fluid p-4 m-2" alt="Responsive image"/> </a>
                   <h6>Ez Geo-Tracker.</h6>
-                  <p>This is a colaboration project I did with 3 other individuals. My role was to implement the HERE API to provide interactive maps to the page.This was done via the HERE Javascript library. I'm quite proud of they way we all came togeather in this project. </p>
+                  <p>This is a colaboration project I did with 3 other individuals. My role was to implement the HERE and NASA Earth API to provide interactive maps to the page.This was done via the HERE Javascript library. I'm quite proud of they way we all came togeather in this project. </p>
               </div>
 
               <div class="col-md-4"> 
-                <a href="https://joejoe909.github.io/Weather-Dashboard/" target="_blank"> <img src={EGT} class="img-fluid p-4 m-2" alt="Responsive image"/> </a>
+                <a href="https://joejoe909.github.io/Weather-Dashboard/" target="_blank"> <img src={wdb} class="img-fluid p-4 m-2" alt="Responsive image"/> </a>
                   <h6>Weather Dashboard.</h6>
                   <p>This is a project that implements the Open Weather API. A lot of fun stuff going on with HTML,Javascript, JQuery and Bootstrap.</p>
               </div>
 
               <div class="col-md-4">
                 <a href="https://github.com/joejoe909/PWA-Online-Offline-Budget-Trackers" target="_blank"> <img src={pwa} class="img-fluid p-4 m-2" alt="Responsive image" /> </a>
-                <h6>Weather Dashboard.</h6>
-                <p>This is a project that implements the Open Weather API. A lot of fun stuff going on with HTML,Javascript, JQuery and Bootstrap.</p>
+                <h6>Budget Tracker</h6>
+                <p>This is a simple Progressive Web App that can be installed on your phone or PC. Once installed, it acts more like an application than a web page.</p>
               </div>
 
 

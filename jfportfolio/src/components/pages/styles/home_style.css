@@ -1,3 +1,4 @@
+
 body
 {
     background-color: #262626;
@@ -10,6 +11,11 @@ body
  margin-right: 15px; 
  size:parent;
 }
+
+#addDarkGrey{
+    background-color: darkgray;
+}
+
 
 footer 
 {
@@ -29,14 +35,17 @@ footer
 
 .myAdj{
     background-color: #262626;
+    margin-top: 0px;
     margin-bottom: 75px;
 }
 
-.nav-link{
-    background-color: #383838;
-    color: black;
-    border: 5px solid black;
+#addShadow{
+   
+box-shadow: 2px -2px 5px 1px rgba(0,0,0,0.67);
 }
+
+
+
 
 
 

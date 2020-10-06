@@ -6,7 +6,7 @@ import "./styles/home_style.css";
 function Contact(props) {
   return (
     <div>
-      <section class="mt-1" alt="this contains and pushes the main content in/our when you resize">
+      <section class="" alt="this contains and pushes the main content in/our when you resize">
 
         <section class="jumbotron text-left myAdj" id="addDarkGrey">
 

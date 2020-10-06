@@ -8,7 +8,7 @@ import "./styles/home_style.css";
 function Home() {
   return (
 
-    <section className="mt-1" alt="this contains and pushes the main content in/our when you resize">
+    <section className="" alt="this contains and pushes the main content in/our when you resize">
       <section className="jumbotron text-left myAdj" id="addDarkGrey">
         <div className="container border rounded border border-dark bg-white ">
           <div>

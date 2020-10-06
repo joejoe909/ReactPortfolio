@@ -2,77 +2,22 @@ html{
     background-color: darkgray;
 }
 
-body
-{
-    background-color: #262626;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-
+.nav-link{
+    background-color: #383838;
+    color: white;
+    border: 5px solid black;
+    border-radius: 9px 9px 0px 0px;
 }
 
-#addDarkGrey{
-    background-color: darkgray;
+
+.nav-item{
+    background-color: #383838;
+    color: white;
+    border: 1px solid black;
+    border-radius: 9px 9px 0px 0px;
 }
 
-/*floats the image*/
-.floatImgLeft
-{
- float: left;   
- margin-right: 15px; 
- size:parent;
+.nav-tabs{
+    margin-bottom: 1px;
 }
 
-footer 
-{
-    position: absolute;
-    bottom: 0;
-    height: 40px;
-    border-top-width: 3px;
-    border-top-style: solid;
-    border-top-color:#262626;
- }
-/*padds upper left label in navbar*/
-.textPadding
-{
-    padding-left: 4px;
-    padding-right: 4px;
-}
-
-.myAdj{
-    background-color: #262626;
-    margin-bottom: 75px;
-}
-
-/* .NavTabs{
-    background-color: orange;
-} */
-
-/* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-
-    background-color: orange;
-    color:green;
-    border-color: black;
-}
-
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-  
-    background-color: orange;
-    color: green;
-    border-color:black;
-   
-}
-
-.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
-    border-color:black black black;
-}
-
-.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
-     border-color: black black black; 
-}
-
-.nav-tabs .nav-link {
-    border: 1px solid;
-    border-top-left-radius: .25rem;
-    border-top-right-radius: .25rem;
-} */
