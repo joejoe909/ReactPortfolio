@@ -25,14 +25,12 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/contact"
-          className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+          to="/Contact"
+          className={location.pathname === "/Contact" ? "nav-link active" : "nav-link"}
         >
           Contact
         </Link>
       </li>
-      <a href="google.com">LinkedIn</a>
-      <a href="google.com">Resume</a>
     </ul>
   );
 }

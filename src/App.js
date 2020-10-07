@@ -5,6 +5,8 @@ import Home from "./components/pages/Home";
 import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
 import "./components/style.css";
+import Footer from "./components/Footer/index.js";
+
 
 function App() {
   return (
@@ -13,9 +15,11 @@ function App() {
         <NavTabs className = "NavTabs"/>
         <Route exact path="/" component={Home} />
         <Route exact path="/Portfolio" component={Portfolio} />
-        <Route path="/contact" component={Contact} />
-      </div>
+        <Route path="/Contact" component={Contact} />
+      </div> 
+      <Footer />       
     </Router>
+    
   );
 }
 
