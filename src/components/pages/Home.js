@@ -9,8 +9,8 @@ function Home() {
   return (
 
     <section className="" alt="this contains and pushes the main content in/our when you resize">
-      <section className="jumbotron text-left myAdj" id="addDarkGrey">
-        <div className="container border rounded border border-dark bg-white ">
+      <Jumbotron className="jumbotron text-left myAdj" id="addDarkGrey">
+        <Container className="container border rounded border border-dark bg-white ">
           <div>
             <h1>Home Page</h1>
 
@@ -32,8 +32,8 @@ function Home() {
             hand corner, It'll take you to a new tab. Thank you for visiting. Sincerly, Joe Farrish</p>
 
           </div>
-        </div>
-      </section>
+        </Container>
+      </Jumbotron>
     </section>
 
   );

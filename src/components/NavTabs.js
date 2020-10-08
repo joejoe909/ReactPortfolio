@@ -28,7 +28,7 @@ function NavTabs() {
           to="/Contact"
           className={location.pathname === "/Contact" ? "nav-link active" : "nav-link"}
         >
-          Contact
+          Contact/Resume
         </Link>
       </li>
     </ul>
