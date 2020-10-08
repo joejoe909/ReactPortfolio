@@ -23,8 +23,6 @@ function Portfolio() {
             
             <div className="row"> 
                 {Projects}
-        
-
             </div>
           </section>  
         </Container>

@@ -14,7 +14,7 @@ function Home() {
           <div>
             <h1>Home Page</h1>
 
-            <img className="floatImgLeft" src={jfarrish} alt="image of Joe Farrish" />
+            <img className="floatImgLeft" src={jfarrish} alt="Joe Farrish" />
 
             <p> Hello, my name is Joe Farrish. I’m originally from Rio Rico, Az - a small town just north of the US border town of
             Nogales, Az. It’s an interesting place with good warm people and great Mexican food. I currently live in Green Valley,
