@@ -16,19 +16,19 @@ function Home() {
 
             <img className="floatImgLeft" src={jfarrish} alt="Joe Farrish" />
 
-            <p> Hello, my name is Joe Farrish. I’m originally from Rio Rico, Az - a small town just north of the US border town of
-            Nogales, Az. It’s an interesting place with good warm people and great Mexican food. I currently live in Green Valley,
-            Az and consider myself a Tucsonian. </p>
+            <p> Hello, my name is Joe Farrish. I’m originally from Rio Rico, Az - a small town just north of the US border town of Nogales, Az. 
+            It’s an interesting place with good warm people and great Mexican food. I currently live in Green Valley, Az and consider myself a 
+            Tucsonian. </p>
 
-            <p>Currently I've been working with Javascript and Web development technologies such as MERN stack (Mongo Db, Express Server, React, Node.js),
-            HTML, CSS, jQuery and otherWeb Development libraries. I also know C++ and the Qt Framework and actually built my own application. I hope to 
-            find a position that will allow me to focus on new technologies and where I can contribute along side a diverse set of people who want to
-            work to make the world we live in a better place.</p>
+            <p>Currently I've been working with Javascript and Web development technologies such as MERN(Mongo Db, Express Server, React, Node.js),
+            HTML, CSS, jQuery and otherWeb Development libraries. I also know C++ and the Qt Framework. I hope to find a position that will allow me
+            to focus on new technologies and where I can contribute alongside a diverse set of people who want to make the world we live in a better 
+            place.</p>
 
-            <p>I like coding Front End as well as backend and feel I'm a flexiable asset in this respect. I think a position where Javascript is needed is a 
-            great place for me to be. With that said, I'm always open to learn new langauges and technologies.</p>
+            <p>I like coding Front End as well as backend and feel I'm a flexible asset in this respect. I think a position where Javascript is needed 
+            is a great place for me to be. With that said, I'm always open to learning new languages and technologies.</p>
 
-            <p>Please feel free to check out my portfolio and contact me. Thank you for checking out my portfolio. Sincerly, Joe Farrish</p>
+            <p>Please feel free to check out my portfolio and contact me. Thank you for checking out my portfolio. Sincerely, Joe Farrish</p>
 
           </div>
         </Container>
