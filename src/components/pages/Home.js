@@ -20,16 +20,15 @@ function Home() {
             Nogales, Az. It’s an interesting place with good warm people and great Mexican food. I currently live in Green Valley,
             Az and consider myself a Tucsonian. </p>
 
-            <p>Currently I've been working with Javascript and Web development technologies such as HTML, CSS, jQuery and other
-            Web Development libraries. I also know C++ and the Qt Framework and actually built my own application. I hope to find a
-            Job that will push me to learn new technologies and where I can contribute along side a diverse set of people who want to
+            <p>Currently I've been working with Javascript and Web development technologies such as MERN stack (Mongo Db, Express Server, React, Node.js),
+            HTML, CSS, jQuery and otherWeb Development libraries. I also know C++ and the Qt Framework and actually built my own application. I hope to 
+            find a position that will allow me to focus on new technologies and where I can contribute along side a diverse set of people who want to
             work to make the world we live in a better place.</p>
 
-            <p>I like coding GUI stuff and even do dabble with some graphic design. I think a position where Javascript is needed is a great
-            place for me to be. I'm always open to learn new langauges.</p>
+            <p>I like coding Front End as well as backend and feel I'm a flexiable asset in this respect. I think a position where Javascript is needed is a 
+            great place for me to be. With that said, I'm always open to learn new langauges and technologies.</p>
 
-            <p>Please feel free to check out my portfolio and contact me. My email,linkedin and resume are accessible via the upper right
-            hand corner, It'll take you to a new tab. Thank you for visiting. Sincerly, Joe Farrish</p>
+            <p>Please feel free to check out my portfolio and contact me. Thank you for checking out my portfolio. Sincerly, Joe Farrish</p>
 
           </div>
         </Container>
