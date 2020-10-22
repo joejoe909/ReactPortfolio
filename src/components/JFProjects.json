@@ -36,10 +36,9 @@
     },
     {
         "id": "5",
-        "prj": "Progressive Budget Tracker",
-        "PrjLink": "https://peaceful-dusk-63294.herokuapp.com/",
-        "ImgLink": "https://github.com/joejoe909/PWA-Online-Offline-Budget-Trackers/raw/master/img/pwa.png",
-        "desc": "This is a project that implements the Open Weather API. A lot of fun stuff going on with HTML,Javascript, JQuery and Bootstrap."
+        "prj": "Magic The Gabbering",
+        "PrjLink": "https://github.com/joejoe909/supreme-winner",
+        "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png",
+        "desc": "This is another collaboration project. I did a lot of front end aswell as back end code on this. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize on the Node backend and jQuery and handlebars on the front end."
     }
-
 ]
