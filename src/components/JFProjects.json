@@ -15,7 +15,7 @@
     },
     {
         "id": "2",
-        "prj": "Portfolio Template",
+        "prj": "HTML Portfolio Template",
         "PrjLink": "https://joejoe909.github.io/ResponsivePortfolio/index.html",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/portfolioTemplate.png",
         "desc": "This is another template project which consists of HTML,CSS and utilizes the Bootstrap CSS library. As a developer I like making reusable components which is why I like making templates."
@@ -38,7 +38,7 @@
         "id": "5",
         "prj": "Magic The Gabbering",
         "PrjLink": "https://github.com/joejoe909/supreme-winner",
-        "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png",
-        "desc": "This is another collaboration project. I did a lot of front end aswell as back end code on this. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize on the Node backend and jQuery and handlebars on the front end."
+        "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png?raw=true",
+        "desc": "This is another collaboration project. I wrote Javascript code for much of the front end aswell as back end code on this. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize on the Node backend and jQuery and handlebars on the front end."
     }
 ]
