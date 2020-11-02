@@ -24,7 +24,7 @@ function Contact(props) {
             </div>
             <div className="col-dm-12 mb-4">
               <section alt="Download Joe Farrish's Resume.">
-                <h4><a className="text-danger" href="https://docs.google.com/document/d/1qNb_fUEDryS9VouTI_Fwbx3rzDbp2mTHSMqObiwZm7Q/edit?usp=sharing">Resume</a></h4>
+                <h4><a className="text-danger" href="https://drive.google.com/file/d/1Pn9zaC2DWzJXlXl62yS_7ESXWCfJwqKP/view?usp=sharing">Resume</a></h4>
               </section>
             </div>
             <div className="col-dm-12 mb-4">
