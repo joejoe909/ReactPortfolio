@@ -29,7 +29,7 @@ function Home() {
 
             <p>Please feel free to check out my portfolio and contact me. Thank you. </p>
             <p> Sincerely, </p>
-            <p class='tab'> Joe Farrish</p>
+            <p className='tab'> Joe Farrish</p>
 
           </div>
         </Container>
