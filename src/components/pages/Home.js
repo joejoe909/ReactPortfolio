@@ -25,10 +25,11 @@ function Home() {
             to focus on new technologies and where I can contribute alongside a diverse set of people who want to make the world we live in a better 
             place.</p>
 
-            <p>I like coding for front end as well as backend and feel I'm a flexible asset in this respect. I think a position where Javascript is needed 
-            is a great place for me to be. With that said, I'm always open to learning new languages and technologies.</p>
+            <p>I like coding for front end as well as backend, I'm a flexible asset in this respect. I'm always open to learning new languages and technologies.</p>
 
-            <p>Please feel free to check out my portfolio and contact me. Thank you for checking out my portfolio. Sincerely, Joe Farrish</p>
+            <p>Please feel free to check out my portfolio and contact me. Thank you. </p>
+            <p> Sincerely, </p>
+            <p class='tab'> Joe Farrish</p>
 
           </div>
         </Container>

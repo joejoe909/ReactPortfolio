@@ -19,7 +19,7 @@ function Contact(props) {
             </div>
             <div className="col-dm-12 mb-4">
               <section alt="Email Joseph Farrish.">  
-                <h4><h4>Email:<a className="col-2 text-primary" href="mailto:joseph_a_f@hotmail.com">joseph_a_f@hotmail.com</a></h4></h4> 
+                <h4>Email:<a className="col-2 text-primary" href="mailto:joseph_a_f@hotmail.com">joseph_a_f@hotmail.com</a></h4> 
               </section>
             </div>
             <div className="col-dm-12 mb-4">

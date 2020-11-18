@@ -28,7 +28,7 @@
         "prj": "Random Employee Directory",
         "PrjLink": "https://5f7d3715d6a5a054c41b7d14--relaxed-turing-0899e2.netlify.app/",
         "ImgLink": "https://github.com/joejoe909/React-Employee-Directory/blob/master/img/ev.png?raw=true",
-        "desc": "A React project that queries the Random Employee API, when this information is returned it can be sorted by clicking the Name header field."
+        "desc": "A React project that queries the Random Employee API, when this information is returned it can be sorted by clicking the name header field."
     },
     {
         "id": "4",
@@ -44,6 +44,6 @@
         "PrjLink": "https://sheltered-tor-50073.herokuapp.com/",
         "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png?raw=true",
         "GitHub": "https://github.com/joejoe909/supreme-winner",
-        "desc": "A collaboration project, I wrote the Javascript for much of the front end aswell as back end code on this. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize, on the Node backend and jQuery and handlebars on the front end."
+        "desc": "A collaboration project, I wrote the Javascript for much of the front end aswell as back end code on this project. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize, on the Node backend and jQuery and handlebars on the front end."
     }
 ]
