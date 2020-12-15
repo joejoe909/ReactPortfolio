@@ -27,17 +27,17 @@
         "id": "3",
         "prj": "Random Employee Directory",
         "PrjLink": "https://5f7d3715d6a5a054c41b7d14--relaxed-turing-0899e2.netlify.app/",
-        "ImgLink": "https://github.com/joejoe909/node_Weatherdashboard/blob/main/images/WD.png",
-        "GitHub": "https://github.com/joejoe909/node_Weatherdashboard ",
+        "ImgLink": "https://github.com/joejoe909/React-Employee-Directory/blob/master/img/ev.png?raw=true",
+        "GitHub": "https://github.com/joejoe909/React-Employee-Directory",
         "desc": "A React project that queries the Random Employee API, when this information is returned it can be sorted by clicking the name header field."
     },
     {
         "id": "4",
         "prj": "Weather Dashboard",
         "PrjLink": "https://agile-retreat-46101.herokuapp.com/",
-        "ImgLink": "https://github.com/joejoe909/Workout-Tracker/raw/master/img/ft3.png",
-        "GitHub": "https://github.com/joejoe909/Workout-Tracker",
-        "desc": "This project utilizes Node.js and Express-Handlebars along with Express Server. The project queries the Open Weather API to get current weather along side a five day forecast and UV index information. "
+        "ImgLink": "https://raw.githubusercontent.com/joejoe909/node_Weatherdashboard/main/images/WD.png?token=ABW5KWFGLH647V3BIUT4UNK73AQKE",
+        "GitHub": "https://github.com/joejoe909/node_Weatherdashboard",
+        "desc": "Workout Tracker that utilizes MongoDb, Node.js, Express Server and Javascript. The user can input workout details and have them graphed."
     },
     {
         "id": "5",
