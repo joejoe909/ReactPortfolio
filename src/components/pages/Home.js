@@ -57,7 +57,7 @@ function Home() {
             pair programming...), we made a MERN Stack program (MongoDb, Express Server, React, Node.js) that would let teachers manage their lesson planner 
             from a website. This had full logon capabilities, CRUD operability, and would meet the criteria of a Fullstack Application. </p>
             
-            <p> <u>One last thank you! </u></p> 
+            <p> <b>One last thank you! </b></p> 
             <p>Please feel free to check out my portfolio and the pretaining GitHub repos. I hope to hear from you. </p>
             <p> Sincerely, </p>
             <p className='tab'> Joe Farrish</p>
