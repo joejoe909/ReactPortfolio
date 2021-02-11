@@ -30,7 +30,7 @@ function Home() {
             <p> In 2020 I attended a Javascript Web Development Boot Camp at the University of Arizona. I was able to learn HTML, CSS,Javascript, jQuery, Node.js,
            Express server, MySql, Handlebars.js, Sequelize, Mongo Db, and React. In addition we were exposed to Git, Github, Heroku, Netlify, and MongoDb Atlas. </p>
 
-            <p> <strong> Projects in C++ </strong></p>
+            <p> <strong> Projects in C++: </strong></p>
  
             <p> <u>Visual Brainstorm </u></p>
 
@@ -41,7 +41,7 @@ function Home() {
             <p>With that I was able to create an LLC called Farrishworks where Visual Brainstorm can be purchased. If you would like a copy please contact me for
             the free full version. </p>
 
-            <p> <strong> Projects in Javascript </strong></p>
+            <p> <strong> Projects in Javascript: </strong></p>
              
             <p> <u>Ez Geo Explorer </u></p> 
             <p> In bootcamp out group made a Website that utilizes the Open weather API, The NASA API and HERE maps API to create a web page that can display a 
