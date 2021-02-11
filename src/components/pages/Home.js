@@ -38,7 +38,7 @@ function Home() {
             Framework and managed memory where needed... Qt does a lot of this for you... The other great feat contained within Visual Brainstorm is that I designed a
             custom tree data structure and I was able to implement serialization. For the GUI I was able to utilize the Qt Widgets classes and Qt Creator. </p>
 
-            <p>With that I was able to create an LLC called Farrishworks where Visual Brainstorm can be purchased. If you would like a copy please contact me for
+            <p>With that I was able to create an LLC called Farrishworks which publishes VBS. If you would like a copy please contact me for
             the free full version. </p>
 
             <p> <strong> Projects in Javascript: </strong></p>
