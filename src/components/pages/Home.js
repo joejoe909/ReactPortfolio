@@ -16,7 +16,7 @@ function Home() {
 
             <img className="floatImgLeft" src={jfarrish} alt="Joe Farrish" />
 
-            <p> <b>Full Stack Web Developer and C++ Developer.</b> I have a Passion for coding and I'm open to learn your technologies/stack and your way of building. </p>
+            <p> <b>Full Stack Web Developer and C++ Developer.</b> I have a Passion for coding, I'm open to learn your technologies/stack and your way of building. </p>
             <p> <strong> Technologies: </strong></p>
             <p> <u> Javascript </u> - MERN, HTML, CSS, MySQL and MongoDb. </p>
             
@@ -28,7 +28,7 @@ function Home() {
             computer science, web development and data structures. </p>
 
             <p> In 2020 I attended a Javascript Web Development Boot Camp at the University of Arizona. I was able to learn HTML, CSS,Javascript, jQuery, Node.js,
-           Express server, MySql, Handlebars.js, Sequelize, Mongo Db, and React. In addition we were exposed to Git, Github, Heroku, Netlify, MongoDb Atlas. </p>
+           Express server, MySql, Handlebars.js, Sequelize, Mongo Db, and React. In addition we were exposed to Git, Github, Heroku, Netlify, and MongoDb Atlas. </p>
 
             <p> <strong> Projects in C++ </strong></p>
  
