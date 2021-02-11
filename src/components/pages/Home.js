@@ -58,7 +58,7 @@ function Home() {
             from a website. This had full logon capabilities, CRUD operability, and would meet the criteria of a Fullstack Application. </p>
             
             <p> <b>One last thank you! </b></p> 
-            <p>Please feel free to check out my portfolio and the pretaining GitHub repos. I hope to hear from you. </p>
+            <p>Please feel free to check out my portfolio and the pretaining GitHub repos. I hope to hear from you. Thank you for checking out my portfolio! </p>
             <p> Sincerely, </p>
             <p className='tab'> Joe Farrish</p>
 
