@@ -44,13 +44,13 @@ function Home() {
             <p> <strong> Projects in Javascript: </strong></p>
              
             <p> <u>Ez Geo Explorer </u></p> 
-            <p> In bootcamp out group made a Website that utilizes the Open weather API, The NASA API and HERE maps API to create a web page that can display a 
-            satelite image along side an interactive map. This was all done using HTML, Javascript, jQuery and CSS. </p>
+            <p> In bootcamp our group made a website that utilizes the Open weather API, the NASA API and HERE Maps API to create a web page that can display a 
+            satelite image along side an interactive map for any given city. This was all done using HTML, Javascript, jQuery and CSS. </p>
 
             <p> <u>Magic The Gabbering </u></p> 
             <p>A second project we worked on was a Social Media Mockup Concept of Magic The Gathering. This was a web site that lets users look up cards and 
             once they're returned from the Magic The Gathering API they can make a post with the card and present it to other people on the forum. This was 
-            all done using Node.js, HTML, Handlebars, Sequelize</p>
+            all done using Node.js, HTML, Handlebars and Sequelize</p>
 
             <p> <u>Lesson Planner </u></p> 
             <p>A Third project where I was introduced to a very different method of working on a project. where the group codes as a single unit (sort of like
