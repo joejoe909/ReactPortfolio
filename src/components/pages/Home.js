@@ -60,6 +60,7 @@ function Home() {
             <p> <b>One last thank you! </b></p> 
             <p>Please feel free to check out my portfolio and the pretaining GitHub repos. I hope to hear from you. Thank you for checking out my portfolio! </p>
             <p> Sincerely, </p>
+            <p> Sincerely, </p>
             <p className='tab'> Joe Farrish</p>
 
           </div>
