@@ -1,5 +1,5 @@
 import React from "react";
-import jfarrish from "../img/JFarrish.jpg"
+import jfarrish from "../img/JFarrish2.jpg"
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import "./styles/home_style.css";
