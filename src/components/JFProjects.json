@@ -5,7 +5,7 @@
         "PrjLink": "https://farrishworks.com",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/VBS.png",
         "GitHub": "https://farrishworks.com",
-        "desc": "Visual Brainstorm is a made in C++ using the Qt Framework. I don't expect to use C++ much as a Web Developer but I'm proud of this and I want to communicate that I've been studying programming for some time now. Visual Brainstorm is a good project that displays my understanding of Object Oriented programming and my will to build."
+        "desc": "Visual Brainstorm is made in C++ using the Qt Framework.  I've been studying programming for some time now. Visual Brainstorm is a display of my understanding of Object-Oriented programming and my will to build."
     },
     {
         "id": "1",
@@ -13,7 +13,7 @@
         "PrjLink": "https://joejoe909.github.io/TimedQuiz/",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/QzTmp.png",
         "GitHub":"https://github.com/joejoe909/TimedQuiz",
-        "desc": "I'm always amazed at how colorful Web Development is. This quiz template provides the groundwork for construction of a testing system."
+        "desc": "Quiz Template provides the groundwork for a more complex testing system. It utilizes a custom random number generator to sort possible the wrong and correct answers in a multiple-choice test. "
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "PrjLink": "https://joejoe909.github.io/ResponsivePortfolio/index.html",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/portfolioTemplate.png",
         "GitHub": "https://github.com/joejoe909/ResponsivePortfolio",
-        "desc": "This is another template project which consists of HTML,CSS and utilizes the Bootstrap CSS library. As a developer I like making reusable components which is why I like making templates."
+        "desc": "This project is a template file for building more complex Front End web work in HTML, CSS, and Javascript. It comes in the form of a portfolio and is a good starting point for other web pages. "
      },
     {
         "id": "3",
@@ -37,7 +37,7 @@
         "PrjLink": "https://agile-retreat-46101.herokuapp.com/",
         "ImgLink": "https://raw.githubusercontent.com/joejoe909/node_Weatherdashboard/main/images/WD.png?token=ABW5KWFGLH647V3BIUT4UNK73AQKE",
         "GitHub": "https://github.com/joejoe909/node_Weatherdashboard",
-        "desc": "Workout Tracker that utilizes MongoDb, Node.js, Express Server and Javascript. The user can input workout details and have them graphed."
+        "desc": "Weather Dashboard is a Node and Handlebars project that queries the Open Weather API to return a Five-day forecast and current weather for any city in the world."
     },
     {
         "id": "5",
@@ -45,6 +45,6 @@
         "PrjLink": "https://sheltered-tor-50073.herokuapp.com/",
         "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png?raw=true",
         "GitHub": "https://github.com/joejoe909/supreme-winner",
-        "desc": "A collaboration project, I wrote the Javascript for much of the front end aswell as back end code on this project. It's basically a Magic the Gathering Social Media website that allows you to post cards with comments. This project utilized Sequelize, on the Node backend and jQuery and handlebars on the front end."
+        "desc": "In a collaboration project, I wrote the Javascript for much of the front-end and backend code on this project. It's a Magic the Gathering Social Media website that allows you to post Magic the Gathering Cards in a social media setting. This project made use Sequelize, on the Node backend and jQuery and handlebars on the front end."
     }
 ]
