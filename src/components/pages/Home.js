@@ -3,7 +3,6 @@ import jfarrish from "../img/JFarrish2.jpg"
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import "./styles/home_style.css";
-import Tabs from 'react-bootstrap/Tabs'
 
 function Home() {
   return (
