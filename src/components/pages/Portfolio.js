@@ -13,8 +13,8 @@ function Portfolio() {
 
   return (
     <section className="" alt="this contains and pushes the main content in/out when you resize">
-      <Jumbotron className="jumbotron text-left myAdj" alt="This tag contains the main content" id="addDarkGrey">
-        <Container className="container border rounded border border-dark bg-white" alt="Main Container that holds the grid">
+      <Jumbotron className="jumbotron text-left myAdj"  alt="This tag contains the main content" id="addDarkGrey">
+        <Container className="container border rounded border border-dark bg-white" alt="Main Container that holds the grid" style={{ padding: 36 }}>
           <Container className="container mt-4">
             <h1 className="ml-4 mt-3"> The Portfolio of Joe Farrish</h1>
           </Container>
