@@ -13,7 +13,7 @@
         "PrjLink": "https://joejoe909.github.io/TimedQuiz/",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/QzTmp.png",
         "GitHub":"https://github.com/joejoe909/TimedQuiz",
-        "desc": "Quiz Template provides the groundwork for a more complex testing system. It utilizes a custom random number generator to sort possible the wrong and correct answers in a multiple-choice test. "
+        "desc": "This project provides the groundwork for a further development of a electronic testing system. It utilizes random number generation to sort several wrong answers(currently set to 3) and one correct answer in a multiple-choice test. "
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "PrjLink": "https://joejoe909.github.io/ResponsivePortfolio/index.html",
         "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/portfolioTemplate.png",
         "GitHub": "https://github.com/joejoe909/ResponsivePortfolio",
-        "desc": "This project is a template file for building more complex Front End web work in HTML, CSS, and Javascript. It comes in the form of a portfolio and is a good starting point for other web pages. "
+        "desc": "This project is a template file for further development of Front End web work in HTML, CSS, and Javascript. It comes in a portfolio setting and is a good starting point for more complex web pages. "
      },
     {
         "id": "3",
@@ -45,6 +45,6 @@
         "PrjLink": "https://sheltered-tor-50073.herokuapp.com/",
         "ImgLink": "https://github.com/joejoe909/supreme-winner/blob/master/img/imgGH.png?raw=true",
         "GitHub": "https://github.com/joejoe909/supreme-winner",
-        "desc": "In a collaboration project, I wrote the Javascript for much of the front-end and backend code on this project. It's a Magic the Gathering Social Media website that allows you to post Magic the Gathering Cards in a social media setting. This project made use Sequelize, on the Node backend and jQuery and handlebars on the front end."
+        "desc": "This project is a collaboration that utilizes Node.js, MySQL, Sequelize; on the front end, we used jQuery, JS, and HTML. The Magic, the Gathering Social Media website allows you to post Magic the Gathering Cards in a social media setting. "
     }
 ]
