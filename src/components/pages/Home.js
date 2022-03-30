@@ -42,9 +42,6 @@ function Home() {
               I was able to create an LLC called Farrishworks, which publishes VBS. If you would like a copy, please get in touch 
               with me for the free full version.</p>
 
-            <p>With that I was able to create an LLC called Farrishworks which publishes VBS. If you would like a copy please contact
-               me for the free full version. </p>
-
             <p> <strong> Projects in Javascript: </strong></p>
              
             <p> <u>Ez Geo Explorer </u></p> 
