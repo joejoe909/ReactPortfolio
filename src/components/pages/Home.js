@@ -15,7 +15,7 @@ function Home() {
 
             <img className="floatImgLeft" src={jfarrish} alt="Joe Farrish" />
 
-            <p> <b>Full Stack Web Developer and C++ Developer.</b> I have a Passion for coding, I'm open to learn your technologies/stack and your way of building. </p>
+            <p> <b>C++/Qt Developer and Full Stack Web Developer.</b> I have a Passion for coding, I'm open to learn your technologies/stack and your way of building. </p>
             <p> <strong> Technologies: </strong></p>
             <p> <u> Javascript </u> - MERN, HTML, CSS, MySQL and Mongo DB. </p>
             
@@ -27,9 +27,15 @@ function Home() {
             <p> I've also taught myself Qt (Qt Widgets, Qt Core, QML) via Udemy and several books on Packtpub.com, where I'm constantly 
               keeping up on coding, computer science, web development, and data structures. </p>
               
-              <p>In 2020 I attended a Javascript Web Development Boot Camp at the University of Arizona. I learned HTML, CSS, Javascript,
+            <p>In 2020 I attended a Javascript Web Development Boot Camp at the University of Arizona. I learned HTML, CSS, Javascript,
               jQuery, Node.js, Express server, MySql, Handlebars.js, Sequelize, Mongo Db, and React. In addition, we learned about Git,
               Github, Heroku, Netlify, and MongoDB Atlas. </p>
+
+            <p>In June of 2022, after working in IT to hold me over while attending Southern New Hampshire University, I was fortunate
+               enough to come on board with Raytheon, now Raytheon, an RTX company, as a Software Programmer, which was a welcomed experience. 
+               While I worked towards my Computer Science Degree at RTX, I worked on the Munitions Application Team. There, I could put my 
+               C++, Qt, and Python skills to work in an Agile environment. In December of 2023, I completed my CS degree with honors. 
+            </p>
 
             <p> <strong> Projects in C++: </strong></p>
  
